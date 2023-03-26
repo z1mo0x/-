@@ -1,26 +1,8 @@
-.flex {
-    display: flex;
-    justify-content: space-evenly;
-    margin-top: 100px;
-}
-
-.flex div {
-    width: 250px;
-    height: 300px;
-    background: red;
-}
-
 header {
     height: 100vh;
-    width: 100%;
-    background: url('standard.gif') center / contain no-repeat;
 }
 
-.flex img {
+header img {
     width: 100%;
-}
-
-.container {
-    width: 1200px;
-    margin: 150px auto;
+    height: 24%;
 }
